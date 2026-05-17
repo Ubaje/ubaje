@@ -1,24 +1,53 @@
-<h1 align="center">Hi 👋, I'm Chikezie Ezuma-Ngwu</h1>
-<h3 align="center">A passionate Software Engineer Graduate</h3>
+# Chikezie Ezuma-Ngwu
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ubaje&label=Profile%20views&color=0e75b6&style=flat" alt="ubaje" /> </p>
+**Building AI agents. Previously @ Amazon.**
 
-- 🔭 I’m currently working on [Python Shell](test)
+I'm a software and data engineer focused on AI systems, distributed infrastructure, and applied ML. Right now I'm deep in agentic AI — designing systems where models plan, reason, and act across tools and APIs.
 
-- 🌱 I’m currently learning **Pytorch, LLMs**
+---
 
-- 📫 How to reach me **kezzy02@gmail.com**
+## What I'm Working On
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/chikezie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chikezie" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ubaje" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ubaje" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ubaje" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ubaje" height="30" width="40" /></a>
-</p>
+- **AI Agent development** — building autonomous agents with tool-use, memory, and multi-step reasoning
+- Exploring agent orchestration patterns, evaluation frameworks, and reliability under real-world conditions
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ubaje&show_icons=true&locale=en" alt="ubaje" /></p>
+## Background
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ubaje&" alt="ubaje" /></p>
+**Amazon (SDE Intern, ×2)** — built event-driven pipelines on AWS Lambda and consolidated multi-source data into Redshift via Glue and S3
+
+**Pocket.One** — designed distributed identity infrastructure: 3-node Redis/PostgreSQL clusters, HashiCorp Vault for secrets rotation, Consul for service discovery, ETL pipelines with reconciliation checks
+
+**Akuko Prep** — cohort and funnel analysis on applicant pipelines, behavioral anomaly detection, Python REST APIs connecting activity data to reporting layers
+
+---
+
+## Selected Projects
+
+**Logistics SQL Language Model** · [Live Demo](https://huggingface.co/spaces/ubaje/logistics-sql-slm)
+Fine-tuned Phi-3.5-Mini (3.8B) on a custom 320-example logistics dataset using QLoRA 4-bit quantization and LoRA adapters (rank 16). Deployed as a natural language to SQL app on Streamlit and Hugging Face Spaces.
+
+**Database Discrepancy Detection System**
+Automated cross-database inconsistency detection and resolution using AWS Fargate and S3. Flags integrity issues in real time and cuts manual verification overhead.
+
+**Financial and Housing Market Forecasting**
+Time series and regression models for stock and housing trend prediction, validated with cross-validation and residual analysis.
+
+---
+
+## Stack
+
+```
+Languages      Python · SQL (PostgreSQL, MySQL, Redshift) · Java · JavaScript · C
+ML / AI        Scikit-learn · TensorFlow · XGBoost · Hugging Face (TRL, PEFT) · QLoRA
+AWS            SageMaker · Lambda · Glue · S3 · Redshift · Fargate
+Infrastructure Docker · Kubernetes · Redis · Patroni · Consul · HashiCorp Vault
+BI             Tableau · Power BI · Dash Plotly
+```
+
+---
+
+## Connect
+
+[LinkedIn](https://linkedin.com/in/ChikezieE) · [GitHub](https://github.com/Ubaje) · kezzy02@gmail.com · U.S. Citizen
